@@ -4,7 +4,7 @@ title: Home
 ---
 
 <header style="display: flex; align-items: center; justify-content: space-between; background-color: #007bff; padding: 20px; color: white;">
-  <img src="logo.png" alt="Bilal Kareem Logo" style="width: 200px; height: auto; margin-right: 20px;">
+  <img src="logo.png" alt="Bilal Kareem Logo" style="width: 100px; height: auto; margin-right: 20px;">
   <div style="flex-grow: 1;">
     <h1>Bilal Olakunle Kareem - DevSecOps Professional</h1>
     <p>
@@ -22,7 +22,7 @@ title: Home
 
 <section id="skills" class="home-section" style="background-color: #f7f7f7; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <h2>Skills</h2>
-  <table class="table table-striped">
+  <table>
     <thead>
       <tr>
         <th>Skill</th>
@@ -60,6 +60,18 @@ title: Home
 
 <section id="tools" class="home-section" style="background-color: #e9ecef; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <h2>Tools</h2>
+  <h3>CI/CD and Automation</h3>
+  <p>
+    <img src="https://img.shields.io/badge/-Jenkins-D24939?&style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins">
+    <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?&style=for-the-badge&logo=GitHub-Actions&logoColor=white" alt="GitHub Actions">
+    <img src="https://img.shields.io/badge/-Terraform-623CE4?&style=for-the-badge&logo=Terraform&logoColor=white" alt="Terraform">
+    <img src="https://img.shields.io/badge/-Ansible-EE0000?&style=for-the-badge&logo=Ansible&logoColor=white" alt="Ansible">
+    <img src="https://img.shields.io/badge/-Nexus-4E73B9?&style=for-the-badge&logo=Sonatype&logoColor=white" alt="Nexus">
+    <img src="https://img.shields.io/badge/-SonarQube-4E9BCD?&style=for-the-badge&logo=SonarQube&logoColor=white" alt="SonarQube">
+    <img src="https://img.shields.io/badge/-Tomcat-F8DC75?&style=for-the-badge&logo=Apache%20Tomcat&logoColor=black" alt="Tomcat">
+    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" alt="Docker">
+  </p>
+  
   <h3>Operating Systems</h3>
   <p>Windows, MacOS, Android, Linux (Redhat, Amazon Linux, Ubuntu, CentOS)</p>
 
@@ -118,8 +130,7 @@ title: Home
   </ul>
 </section>
 
-<section id="education" class="home-section" style="background-color: #```markdown
-e9ecef; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+<section id="education" class="home-section" style="background-color: #e9ecef; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <h2>Education & Certification</h2>
   <p><strong>Bachelor of Science - Computer Science</strong><br>2011</p>
   <p><strong>Certificate Course in Managing Emotions in Times of Uncertainty & Stress</strong><br>2022</p>
