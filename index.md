@@ -3,14 +3,26 @@ layout: default
 title: Home
 ---
 
-<section id="objective" class="home-section">
+<header style="display: flex; align-items: center; justify-content: space-between; background-color: #007bff; padding: 20px; color: white;">
+  <img src="logo.png" alt="Bilal Kareem Logo" style="width: 200px; height: auto; margin-right: 20px;">
+  <div style="flex-grow: 1;">
+    <h1>Bilal Olakunle Kareem - DevSecOps Professional</h1>
+    <p>
+      <a href="https://www.linkedin.com/in/bilaldevsec" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+    </p>
+  </div>
+</header>
+
+<section id="objective" class="home-section" style="background-color: #e9ecef; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <h2>Objective</h2>
   <p>Actively pursuing a position as a Cyber Security analyst, aiming to deploy my advanced technical competencies and extensive experience to fortify organizational security infrastructure, enhance system resilience, and align with strategic business objectives.</p>
 </section>
 
-<section id="skills" class="home-section">
+<section id="skills" class="home-section" style="background-color: #f7f7f7; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <h2>Skills</h2>
-  <table>
+  <table class="table table-striped">
     <thead>
       <tr>
         <th>Skill</th>
@@ -46,19 +58,8 @@ title: Home
   </table>
 </section>
 
-<section id="tools" class="home-section">
+<section id="tools" class="home-section" style="background-color: #e9ecef; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <h2>Tools</h2>
-  <div class="tools">
-    <img src="https://img.shields.io/badge/-Jenkins-D24939?&style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins">
-    <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?&style=for-the-badge&logo=GitHub-Actions&logoColor=white" alt="GitHub Actions">
-    <img src="https://img.shields.io/badge/-Terraform-623CE4?&style=for-the-badge&logo=Terraform&logoColor=white" alt="Terraform">
-    <img src="https://img.shields.io/badge/-Ansible-EE0000?&style=for-the-badge&logo=Ansible&logoColor=white" alt="Ansible">
-    <img src="https://img.shields.io/badge/-Nexus-4E73B9?&style=for-the-badge&logo=Sonatype&logoColor=white" alt="Nexus">
-    <img src="https://img.shields.io/badge/-SonarQube-4E9BCD?&style=for-the-badge&logo=SonarQube&logoColor=white" alt="SonarQube">
-    <img src="https://img.shields.io/badge/-Tomcat-F8DC75?&style=for-the-badge&logo=Apache%20Tomcat&logoColor=black" alt="Tomcat">
-    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" alt="Docker">
-  </div>
-
   <h3>Operating Systems</h3>
   <p>Windows, MacOS, Android, Linux (Redhat, Amazon Linux, Ubuntu, CentOS)</p>
 
@@ -78,7 +79,7 @@ title: Home
   <p>Agile, Waterfall, Kanban</p>
 </section>
 
-<section id="experience" class="home-section">
+<section id="experience" class="home-section" style="background-color: #f7f7f7; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <h2>Professional Experience</h2>
 
   <h3>DevOps/Cloud Engineer</h3>
@@ -112,12 +113,13 @@ title: Home
   <p><strong>Feb 2016 - Dec 2017 | Formost Olive Nig Ltd, Nigeria</strong></p>
   <ul>
     <li>Performed numerous fixes at desktop level, including installing and upgrading software.</li>
-    <li>Assisted in analyzing and evaluating existing systems. Provided basic support introubleshooting and resolving issues.</li>
+    <li>Assisted in analyzing and evaluating existing systems. Provided basic support in troubleshooting and resolving issues.</li>
     <li>Assisted in the creation and maintenance of system documentation, including user manuals, system specifications, and process documents.</li>
   </ul>
 </section>
 
-<section id="education" class="home-section">
+<section id="education" class="home-section" style="background-color: #```markdown
+e9ecef; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <h2>Education & Certification</h2>
   <p><strong>Bachelor of Science - Computer Science</strong><br>2011</p>
   <p><strong>Certificate Course in Managing Emotions in Times of Uncertainty & Stress</strong><br>2022</p>
@@ -125,4 +127,5 @@ title: Home
   <p><strong>IBM SkillsBuild Cybersecurity Fundamental</strong><br>2023</p>
   <p><strong>IBM: Working in a Digital World Professional Skills</strong><br>2023</p>
 </section>
+
 
