@@ -112,7 +112,7 @@ title: Home
   <p><strong>Feb 2016 - Dec 2017 | Formost Olive Nig Ltd, Nigeria</strong></p>
   <ul>
     <li>Performed numerous fixes at desktop level, including installing and upgrading software.</li>
-    <li>Assisted in analyzing and evaluating existing systems. Provided basic support in troubleshooting and resolving issues.</li>
+    <li>Assisted in analyzing and evaluating existing systems. Provided basic support introubleshooting and resolving issues.</li>
     <li>Assisted in the creation and maintenance of system documentation, including user manuals, system specifications, and process documents.</li>
   </ul>
 </section>
@@ -125,3 +125,4 @@ title: Home
   <p><strong>IBM SkillsBuild Cybersecurity Fundamental</strong><br>2023</p>
   <p><strong>IBM: Working in a Digital World Professional Skills</strong><br>2023</p>
 </section>
+
