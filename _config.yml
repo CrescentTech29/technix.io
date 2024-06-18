@@ -3,7 +3,7 @@ description: >
   Actively pursuing a position as a Cyber Security analyst, aiming to deploy my advanced technical competencies and extensive experience to fortify organizational security infrastructure.
 baseurl: ""
 url: "https://github.com/CrescentTech29/technix.io"
-theme: jekyll-theme-slate
+theme: minima
 
 # Build settings
 markdown: kramdown
