@@ -3,25 +3,17 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: #f8f9fa;
-  padding: 20px;
-  border-bottom: 2px solid #dee2e6;
 }
 
 header img {
-  width: 200px;
+  width: 100px;
   height: auto;
   margin-right: 20px;
 }
 
-header h1 {
+header h1, header h2 {
   margin: 0;
-  font-size: 2em;
-  color: #343a40;
-}
-
-header p {
-  margin: 0;
+  padding: 0;
 }
 
 .home-section {
@@ -56,3 +48,4 @@ table th {
 .tools img {
   margin: 5px;
 }
+
