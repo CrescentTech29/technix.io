@@ -3,13 +3,13 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: #333;
+  background-color: #003366;
   color: white;
   padding: 20px;
 }
 
 header img {
-  width: 100px;
+  width: 200px;
   height: auto;
   margin-right: 20px;
 }
@@ -25,7 +25,7 @@ header p {
 
 .home-section {
   padding: 20px;
-  background-color: #f4f4f4;
+  background-color: #eef;
   border-radius: 8px;
   margin-bottom: 20px;
 }
