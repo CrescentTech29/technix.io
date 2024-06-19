@@ -2,9 +2,10 @@
 layout: default
 title: Home
 ---
+
 <header style="display: flex; align-items: center; justify-content: space-between; background-color: #f7f7f7; padding: 20px;">
-  <img src="logo.png" alt="NP Logo" style="width: 200px; height: auto; margin-right: 20px;">
-  <div style="flex-grow: 1;"
+  <img src="logo.png" alt="Logo" style="width: 200px; height: auto; margin-right: 20px;">
+  <div style="flex-grow: 1;">
     <h1>Bilal Olakunle Kareem - DevSecOps Engineer</h1>
     <p>
       <a href="https://www.linkedin.com/in/bilaldevsec" target="_blank">
@@ -91,8 +92,7 @@ title: Home
   <p>
     <img src="https://img.shields.io/badge/-Prometheus-E6522C?&style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus">
     <img src="https://img.shields.io/badge/-Grafana-F46800?&style=for-the-badge&logo=Grafana&logoColor=white" alt="Grafana">
-    <img src="https://img.shields.io/badge/-CloudWatch-FF9900?&style=```markdown
-for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="CloudWatch">
+    <img src="https://img.shields.io/badge/-CloudWatch-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="CloudWatch">
   </p>
 </section>
 
@@ -110,7 +110,8 @@ for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="CloudWatch">
     <li>Developed secure, robust, scalable infrastructure with Terraform across multiple availability zones, accelerating feature deployment from quarterly to monthly and enhancing market responsiveness.</li>
     <li>Sorted, simplified, and documented legacy projects with Confluence for prospective company investors.</li>
     <li>Trained lower engineers in installation and management of both self-managed Kubernetes clusters and managed k8 clusters (Kubeadm, EKS, and Rancher).</li>
-    <li>Wrote declarative Jenkins files with Groovy for CI/CD to build, test, backup, and push docker images to Docker hub registry.</li>
+    <li>Wrote declarative Jenkins files with Groovy for CI/CD to build```markdown
+, test, backup, and push docker images to Docker hub registry.</li>
   </ul>
   <p><strong>Achievement:</strong> Introduced and implemented SonarQube to enhance static code analysis testing, resulting in a remarkable 40% reduction in troubleshooting times in the development stage of production.</p>
 
@@ -142,3 +143,4 @@ for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="CloudWatch">
   <p><strong>IBM SkillsBuild Cybersecurity Fundamental</strong><br>2023</p>
   <p><strong>IBM: Working in a Digital World Professional Skills</strong><br>2023</p>
 </section>
+
