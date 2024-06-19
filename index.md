@@ -3,6 +3,21 @@ layout: default
 title: Home
 ---
 
+<header style="display: flex; align-items: center; justify-content: space-between; background-color: #f7f7f7; padding: 20px;">
+  <img src="logo.png" alt="NP Logo" style="width: 200px; height: auto; margin-right: 20px;">
+  <div style="flex-grow: 1;">
+    <h1>Nyanga P - DevSecops Engineer</h1>
+    <p>
+      <a href="https://www.linkedin.com/in/bilaldevsec/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+      <a href="https://github.com/CrescentTech29/technix.io" target="_blank">
+        <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      </a>
+    </p>
+  </div>
+</header>
+
 <section id="objective" class="home-section" style="background-color: #e9ecef; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <h2>Objective</h2>
   <p>Actively pursuing a position as a Cyber Security analyst, aiming to deploy my advanced technical competencies and extensive experience to fortify organizational security infrastructure, enhance system resilience, and align with strategic business objectives.</p>
