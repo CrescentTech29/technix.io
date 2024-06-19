@@ -3,19 +3,6 @@ layout: default
 title: Home
 ---
 
-<header style="display: flex; align-items: center; justify-content: space-between; background-color: #333; padding: 20px; color: white;">
-  <img src="logo.png" alt="Bilal Kareem Logo" style="width: 200px; height: auto; margin-right: 20px;">
-  <div style="flex-grow: 1;">
-    <h1 style="margin: 0; font-size: 2em;">Bilal Olakunle Kareem - DevSecOps Professional</h1>
-    <p style="margin: 0; font-size: 1.2em;">
-      <a href="https://www.linkedin.com/in/bilaldevsec" target="_blank" style="color: white; text-decoration: none;">
-        <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle;">
-        LinkedIn
-      </a>
-    </p>
-  </div>
-</header>
-
 <section id="objective" class="home-section" style="background-color: #f4f4f4; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <h2>Objective</h2>
   <p>Actively pursuing a position as a Cyber Security analyst, aiming to deploy my advanced technical competencies and extensive experience to fortify organizational security infrastructure, enhance system resilience, and align with strategic business objectives.</p>
@@ -95,6 +82,7 @@ title: Home
 <section id="experience" class="home-section" style="background-color: #ffffff; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <h2>Professional Experience</h2>
 
+```markdown
   <h3>DevOps/Cloud Engineer</h3>
   <p><strong>Dec 2020 - Current | Insurance & Mobility Solutions, Canada</strong></p>
   <ul>
@@ -135,10 +123,8 @@ title: Home
   <h2>Education & Certification</h2>
   <p><strong>Bachelor of Science - Computer Science</strong><br>2011</p>
   <p><strong>Certificate Course in Managing Emotions in Times of Uncertainty & Stress</strong><br>2022</p>
-  <p><strong>Google Cybersecurity Professional Certificate</strong><br>2023</p>
-  <p><strong>IBM SkillsBuild Cybersecurity Fundamental</strong><br>2023</p>
-  <p><strong>IBM: Working in a Digital World Professional Skills</strong><br>2023</p>
-</section>
+  <p><strong>Google Cybersecurity Professional Certificate</strong><br>
+
 
 
 
