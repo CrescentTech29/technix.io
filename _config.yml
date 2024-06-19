@@ -1,26 +1,22 @@
-title: Bilal Olakunle Kareem - Cyber Security Analyst
-description: >
-  Actively pursuing a position as a Cyber Security analyst, aiming to deploy my advanced technical competencies and extensive experience to fortify organizational security infrastructure.
-baseurl: ""
-url: "https://crescenttech29.github.io/technix.io"
-theme: jekyll-theme-cayman
+title: "Bilal Olakunle Kareem - DevSecOps Professional"
+email: contactbilal05@gmail.com
+description: >-
+  Bilal Olakunle Kareem is a Cyber Security Analyst dedicated to leveraging expertise in security solutions to drive efficiency and innovation in technology environments.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://crescenttech29.github.io/technix.io" # the base hostname & protocol for your site
 
-# Plugins
+# Build settings
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
 
-# Pagination settings
 paginate: 5
 
 # Social Links
 github_username: contactbilal05
-linkedin_username: https://www.linkedin.com/in/bilaldevsec/
+linkedin_username: bilaldevsec
 
-# Build settings
-markdown: kramdown
-kramdown:
-  input: GFM
 
