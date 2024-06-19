@@ -20,27 +20,39 @@ title: Home
     <tbody>
       <tr>
         <td style="padding: 10px; border: 1px solid #ddd;">DevOps and Cloud Engineering</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">Specializing in scalable, secure cloud architectures.</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">
+          <a href="https://github.com/yourusername/devops-cloud-engineering">Specializing in scalable, secure cloud architectures</a>.
+        </td>
       </tr>
       <tr>
         <td style="padding: 10px; border: 1px solid #ddd;">Vulnerability Assessments</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">Proficient in identifying and prioritizing threats.</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">
+          <a href="https://github.com/yourusername/vulnerability-assessments">Proficient in identifying and prioritizing threats</a>.
+        </td>
       </tr>
       <tr>
         <td style="padding: 10px; border: 1px solid #ddd;">Risk Management</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">Expertise in risk management and security incident response.</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">
+          <a href="https://github.com/yourusername/risk-management">Expertise in risk management and security incident response</a>.
+        </td>
       </tr>
       <tr>
         <td style="padding: 10px; border: 1px solid #ddd;">SIEM Systems</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">Experience using SIEM tools like Splunk and IBM QRadar.</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">
+          <a href="https://github.com/yourusername/siem-systems">Experience using SIEM tools like Splunk and IBM QRadar</a>.
+        </td>
       </tr>
       <tr>
         <td style="padding: 10px; border: 1px solid #ddd;">Infrastructure as Code (IaC)</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">Skilled in crafting secure, cost-efficient infrastructures using IaC.</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">
+          <a href="https://github.com/yourusername/terraform-infrastructure">Skilled in crafting secure, cost-efficient infrastructures using IaC</a>.
+        </td>
       </tr>
       <tr>
         <td style="padding: 10px; border: 1px solid #ddd;">Frameworks and Standards</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">Well-versed in NIST, ISO 27001, MITRE Attack & Cyber kill chain framework.</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">
+          <a href="https://github.com/yourusername/frameworks-standards">Well-versed in NIST, ISO 27001, MITRE Attack & Cyber kill chain framework</a>.
+        </td>
       </tr>
     </tbody>
   </table>
@@ -53,11 +65,11 @@ title: Home
     <img src="https://img.shields.io/badge/-Jenkins-D24939?&style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins">
     <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?&style=for-the-badge&logo=GitHub-Actions&logoColor=white" alt="GitHub Actions">
     <img src="https://img.shields.io/badge/-Terraform-623CE4?&style=for-the-badge&logo=Terraform&logoColor=white" alt="Terraform">
-    <img src="https://img.shields.io/badge/-Ansible-EE0000?&style=for-the-badge&logo=Ansible&logoColor=white" alt="Ansible">
-    <img src="https://img.shields.io/badge/-Nexus-4E73B9?&style=for-the-badge&logo=Sonatype&logoColor=white" alt="Nexus">
-    <img src="https://img.shields.io/badge/-SonarQube-4E9BCD?&style=for-the-badge&logo=SonarQube&logoColor=white" alt="SonarQube">
-    <img src="https://img.shields.io/badge/-Tomcat-F8DC75?&style=for-the-badge&logo=Apache%20Tomcat&logoColor=black" alt="Tomcat">
-    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io-badge/-Ansible-EE0000?&style=for-the-badge&logo=Ansible&logoColor=white" alt="Ansible">
+    <img src="https://img.shields.io-badge/-Nexus-4E73B9?&style=for-the-badge&logo=Sonatype&logoColor=white" alt="Nexus">
+    <img src="https://img.shields.io-badge/-SonarQube-4E9BCD?&style=for-the-badge&logo=SonarQube&logoColor=white" alt="SonarQube">
+    <img src="https://img.shields.io-badge/-Tomcat-F8DC75?&style=for-the-badge&logo=Apache%20Tomcat&logoColor=black" alt="Tomcat">
+    <img src="https://img.shields.io-badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" alt="Docker">
   </p>
 
   <h3>Operating Systems</h3>
@@ -96,12 +108,12 @@ title: Home
     <li>Trained lower engineers in installation and management of both self-managed Kubernetes clusters and managed k8 clusters (Kubeadm, EKS, and Rancher).</li>
     <li>Wrote declarative Jenkins files with Groovy for CI/CD to build, test, backup, and push docker images to Docker hub registry.</li>
   </ul>
-  <p><strong>Achievement:</strong> Introduced and implemented SonarQube to enhance static code analysis testing, resulting in a remarkable ```markdown
-40% reduction in troubleshooting times in the development stage of production.</p>
+  <p><strong>Achievement:</strong> Introduced and implemented SonarQube to enhance static code analysis testing, resulting in a remarkable 40% reduction in troubleshooting times in the development stage of production.</p>
 
   <h3>Junior DevOps Engineer</h3>
   <p><strong>Jan 2018 - Nov 2020 | SKY UK LIMITED, United Kingdom</strong></p>
-  <ul>
+  <```markdown
+ul>
     <li>Interfaced directly with customers, stakeholders, and end-users regarding capability architectures, requirements use cases, and stories to derive, develop and decompose next-cycle updates and specifications.</li>
     <li>Enhanced security by performing applications installation, upgrades/patches, troubleshooting, maintenance, and monitoring of Linux servers.</li>
     <li>Secured significant and confidential data, along with business systems.</li>
