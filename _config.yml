@@ -12,6 +12,13 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
 
+# Pagination settings
+paginate: 5
+
+# Social Links
+github_username: contactbilal05
+linkedin_username: https://www.linkedin.com/in/bilaldevsec/
+
 # Build settings
 markdown: kramdown
 kramdown:
