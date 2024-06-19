@@ -17,8 +17,8 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: #87ceeb; /* Sky blue color */
-  color: #333;
+  background-color: #f7f7f7; /* Light gray background */
+  color: black;
   padding: 20px;
 }
 
