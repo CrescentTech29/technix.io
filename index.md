@@ -3,97 +3,86 @@ layout: default
 title: Home
 ---
 
-<section id="objective" class="home-section" style="background-color: #eef; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+<section id="objective" class="home-section" style="background-color: #e9ecef; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <h2>Objective</h2>
   <p>Actively pursuing a position as a Cyber Security analyst, aiming to deploy my advanced technical competencies and extensive experience to fortify organizational security infrastructure, enhance system resilience, and align with strategic business objectives.</p>
 </section>
 
-<section id="skills" class="home-section" style="background-color: #ffffff; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
-  <h2>Skills</h2>
-  <table style="width: 100%; border-collapse: collapse;">
+<section id="skills" class="home-section" style="background-color: #f7f7f7; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+  <h2 id="skills">Skills</h2>
+  <table class="table table-striped">
     <thead>
       <tr>
-        <th style="padding: 10px; border: 1px solid #ddd;">Skill</th>
-        <th style="padding: 10px; border: 1px solid #ddd;">Description</th>
+        <th>Skill</th>
+        <th>Associated Project</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td style="padding: 10px; border: 1px solid #ddd;">DevOps and Cloud Engineering</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">
-          <a href="https://github.com/yourusername/devops-cloud-engineering">Specializing in scalable, secure cloud architectures</a>.
-        </td>
+        <td>DevOps and Cloud Engineering</td>
+        <td><a href="https://github.com/yourusername/devops-cloud-engineering">Specializing in scalable, secure cloud architectures</a>.</td>
       </tr>
       <tr>
-        <td style="padding: 10px; border: 1px solid #ddd;">Vulnerability Assessments</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">
-          <a href="https://github.com/yourusername/vulnerability-assessments">Proficient in identifying and prioritizing threats</a>.
-        </td>
+        <td>Vulnerability Assessments</td>
+        <td><a href="https://github.com/yourusername/vulnerability-assessments">Proficient in identifying and prioritizing threats</a>.</td>
       </tr>
       <tr>
-        <td style="padding: 10px; border: 1px solid #ddd;">Risk Management</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">
-          <a href="https://github.com/yourusername/risk-management">Expertise in risk management and security incident response</a>.
-        </td>
+        <td>Risk Management</td>
+        <td><a href="https://github.com/yourusername/risk-management">Expertise in risk management and security incident response</a>.</td>
       </tr>
       <tr>
-        <td style="padding: 10px; border: 1px solid #ddd;">SIEM Systems</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">
-          <a href="https://github.com/yourusername/siem-systems">Experience using SIEM tools like Splunk and IBM QRadar</a>.
-        </td>
+        <td>SIEM Systems</td>
+        <td><a href="https://github.com/yourusername/siem-systems">Experience using SIEM tools like Splunk and IBM QRadar</a>.</td>
       </tr>
       <tr>
-        <td style="padding: 10px; border: 1px solid #ddd;">Infrastructure as Code (IaC)</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">
-          <a href="https://github.com/yourusername/terraform-infrastructure">Skilled in crafting secure, cost-efficient infrastructures using IaC</a>.
-        </td>
+        <td>Infrastructure as Code (IaC)</td>
+        <td><a href="https://github.com/yourusername/terraform-infrastructure">Skilled in crafting secure, cost-efficient infrastructures using IaC</a>.</td>
       </tr>
       <tr>
-        <td style="padding: 10px; border: 1px solid #ddd;">Frameworks and Standards</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">
-          <a href="https://github.com/yourusername/frameworks-standards">Well-versed in NIST, ISO 27001, MITRE Attack & Cyber kill chain framework</a>.
-        </td>
+        <td>Frameworks and Standards</td>
+        <td><a href="https://github.com/yourusername/frameworks-standards">Well-versed in NIST, ISO 27001, MITRE Attack & Cyber kill chain framework</a>.</td>
       </tr>
     </tbody>
   </table>
 </section>
 
-<section id="tools" class="home-section" style="background-color: #eef; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
-  <h2>Tools</h2>
+<section id="tools" class="home-section" style="background-color: #e9ecef; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+  <h2 id="tools">Tools</h2>
   <h3>CI/CD and Automation</h3>
   <p>
-    <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins">
-    <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=GitHub-Actions&logoColor=white" alt="GitHub Actions">
-    <img src="https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=Terraform&logoColor=white" alt="Terraform">
-    <img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white" alt="Ansible">
-    <img src="https://img.shields.io/badge/-Nexus-4E73B9?style=for-the-badge&logo=Sonatype&logoColor=white" alt="Nexus">
-    <img src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=for-the-badge&logo=SonarQube&logoColor=white" alt="SonarQube">
-    <img src="https://img.shields.io/badge/-Tomcat-F8DC75?style=for-the-badge&logo=Apache%20Tomcat&logoColor=black" alt="Tomcat">
-    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/-Jenkins-D24939?&style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins">
+    <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?&style=for-the-badge&logo=GitHub-Actions&logoColor=white" alt="GitHub Actions">
+    <img src="https://img.shields.io/badge/-Terraform-623CE4?&style=for-the-badge&logo=Terraform&logoColor=white" alt="Terraform">
+    <img src="https://img.shields.io/badge/-Ansible-EE0000?&style=for-the-badge&logo=Ansible&logoColor=white" alt="Ansible">
+    <img src="https://img.shields.io/badge/-Nexus-4E73B9?&style=for-the-badge&logo=Sonatype&logoColor=white" alt="Nexus">
+    <img src="https://img.shields.io/badge/-SonarQube-4E9BCD?&style=for-the-badge&logo=SonarQube&logoColor=white" alt="SonarQube">
+    <img src="https://img.shields.io/badge/-Tomcat-F8DC75?&style=for-the-badge&logo=Apache%20Tomcat&logoColor=black" alt="Tomcat">
+    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" alt="Docker">
   </p>
 
-  <h3>Operating Systems</h3>
-  <p>Windows, MacOS, Android, Linux (Redhat, Amazon Linux, Ubuntu, CentOS)</p>
+  <h3>Cloud Platforms</h3>
+  <p>
+    <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt="AWS">
+    <img src="https://img.shields.io/badge/-GCP-4285F4?&style=for-the-badge&logo=Google-Cloud&logoColor=white" alt="GCP">
+  </p>
 
-  <h3>Security Tools</h3>
-  <p>SIEM (Splunk, IBM Qradar), IDS/IPS, EDR, DLP, Firewalls, VPN, Antivirus, IPVoid, VirusTotal, PestStudio</p>
+  <h3>Containerization and Orchestration</h3>
+  <p>
+    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/-Kubernetes-326CE5?&style=for-the-badge&logo=Kubernetes&logoColor=white" alt="Kubernetes">
+    <img src="https://img.shields.io/badge/-Helm-0F1689?&style=for-the-badge&logo=Helm&logoColor=white" alt="Helm">
+  </p>
 
-  <h3>Languages</h3>
-  <p>Groovy, Bash, SQL, Basics of Python</p>
-
-  <h3>Cloud Technologies</h3>
-  <p>AWS (EC2, AWS KMS, SECRET MANAGER, IAM, ELB, ECS, ECR, RDS, NAT-GATEWAYS, S3, ROUTE 53, SNS AWS WAF, EKS, SG)</p>
-
-  <h3>Other Technologies</h3>
-  <p>Maven, Nexus, SonarQube, Confluence, Jira, MySQL, PostgreSQL, Docker, Kubernetes, Terraform, Jenkins, GitOps Action, Git and GitHub, VS Code, Wireshark, Nmap, Untangle, Zenmap, IBM QRadar, Microsoft Office tools</p>
-
-  <h3>Frameworks</h3>
-  <p>Agile, Waterfall, Kanban</p>
+  <h3>Monitoring and Logging</h3>
+  <p>
+    <img src="https://img.shields.io/badge/-Prometheus-E6522C?&style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus">
+    <img src="https://img.shields.io/badge/-Grafana-F46800?&style=for-the-badge&logo=Grafana&logoColor=white" alt="Grafana">
+    <img src="https://img.shields.io/badge/-CloudWatch-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="CloudWatch">
+  </p>
 </section>
 
-<section id="experience" class="home-section" style="background-color: #ffffff; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
-  <h2>Professional Experience</h2>
-
+<section id="experience" class="home-section" style="background-color: #f7f7f7; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+  <h2 id="experience">Professional Experience</h2>
   <h3>DevOps/Cloud Engineer</h3>
   <p><strong>Dec 2020 - Current | Insurance & Mobility Solutions, Canada</strong></p>
   <ul>
@@ -102,8 +91,8 @@ title: Home
     <li>Collaborated with security engineers and SOC managers to provide situational awareness via detection, containment, and remediation of threats to web apps and systems.</li>
     <li>Generated and presented regular security reports to stakeholders.</li>
     <li>Monitored and analyzed security events using SIEM and other security tools.</li>
-    <li>Super```markdown
-    vised a team of 5 Engineers to deploy CICD pipeline jobs with GitOps Action within the approved timeline.</li>
+    <```markdown
+<li>Supervised a team of 5 Engineers to deploy CICD pipeline jobs with GitOps Action within the approved timeline.</li>
     <li>Developed secure, robust, scalable infrastructure with Terraform across multiple availability zones, accelerating feature deployment from quarterly to monthly and enhancing market responsiveness.</li>
     <li>Sorted, simplified, and documented legacy projects with Confluence for prospective company investors.</li>
     <li>Trained lower engineers in installation and management of both self-managed Kubernetes clusters and managed k8 clusters (Kubeadm, EKS, and Rancher).</li>
@@ -131,8 +120,8 @@ title: Home
   </ul>
 </section>
 
-<section id="education" class="home-section" style="background-color: #eef; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
-  <h2>Education & Certification</h2>
+<section id="education" class="home-section" style="background-color: #e9ecef; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+  <h2 id="education">Education & Certification</h2>
   <p><strong>Bachelor of Science - Computer Science</strong><br>2011</p>
   <p><strong>Certificate Course in Managing Emotions in Times of Uncertainty & Stress</strong><br>2022</p>
   <p><strong>Google Cybersecurity Professional Certificate</strong><br>2023</p>
