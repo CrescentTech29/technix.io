@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<header style="display: flex; align-items: center; justify-content: space-between; background-color: #007bff; padding: 20px; color: white;">
+<header style="display: flex; align-items: center; justify-content: space-between; background-color: #333; padding: 20px; color: white;">
   <img src="logo.png" alt="Bilal Kareem Logo" style="width: 100px; height: auto; margin-right: 20px;">
   <div style="flex-grow: 1;">
     <h1>Bilal Olakunle Kareem - DevSecOps Professional</h1>
@@ -15,50 +15,50 @@ title: Home
   </div>
 </header>
 
-<section id="objective" class="home-section" style="background-color: #e9ecef; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+<section id="objective" class="home-section" style="background-color: #f4f4f4; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <h2>Objective</h2>
   <p>Actively pursuing a position as a Cyber Security analyst, aiming to deploy my advanced technical competencies and extensive experience to fortify organizational security infrastructure, enhance system resilience, and align with strategic business objectives.</p>
 </section>
 
-<section id="skills" class="home-section" style="background-color: #f7f7f7; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+<section id="skills" class="home-section" style="background-color: #ffffff; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <h2>Skills</h2>
-  <table>
+  <table style="width: 100%; border-collapse: collapse;">
     <thead>
       <tr>
-        <th>Skill</th>
-        <th>Description</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Skill</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Description</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>DevOps and Cloud Engineering</td>
-        <td>Specializing in scalable, secure cloud architectures.</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">DevOps and Cloud Engineering</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">Specializing in scalable, secure cloud architectures.</td>
       </tr>
       <tr>
-        <td>Vulnerability Assessments</td>
-        <td>Proficient in identifying and prioritizing threats.</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">Vulnerability Assessments</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">Proficient in identifying and prioritizing threats.</td>
       </tr>
       <tr>
-        <td>Risk Management</td>
-        <td>Expertise in risk management and security incident response.</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">Risk Management</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">Expertise in risk management and security incident response.</td>
       </tr>
       <tr>
-        <td>SIEM Systems</td>
-        <td>Experience using SIEM tools like Splunk and IBM QRadar.</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">SIEM Systems</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">Experience using SIEM tools like Splunk and IBM QRadar.</td>
       </tr>
       <tr>
-        <td>Infrastructure as Code (IaC)</td>
-        <td>Skilled in crafting secure, cost-efficient infrastructures using IaC.</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">Infrastructure as Code (IaC)</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">Skilled in crafting secure, cost-efficient infrastructures using IaC.</td>
       </tr>
       <tr>
-        <td>Frameworks and Standards</td>
-        <td>Well-versed in NIST, ISO 27001, MITRE Attack & Cyber kill chain framework.</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">Frameworks and Standards</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">Well-versed in NIST, ISO 27001, MITRE Attack & Cyber kill chain framework.</td>
       </tr>
     </tbody>
   </table>
 </section>
 
-<section id="tools" class="home-section" style="background-color: #e9ecef; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+<section id="tools" class="home-section" style="background-color: #f4f4f4; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <h2>Tools</h2>
   <h3>CI/CD and Automation</h3>
   <p>
@@ -71,7 +71,7 @@ title: Home
     <img src="https://img.shields.io/badge/-Tomcat-F8DC75?&style=for-the-badge&logo=Apache%20Tomcat&logoColor=black" alt="Tomcat">
     <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" alt="Docker">
   </p>
-  
+
   <h3>Operating Systems</h3>
   <p>Windows, MacOS, Android, Linux (Redhat, Amazon Linux, Ubuntu, CentOS)</p>
 
@@ -91,14 +91,14 @@ title: Home
   <p>Agile, Waterfall, Kanban</p>
 </section>
 
-<section id="experience" class="home-section" style="background-color: #f7f7f7; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+<section id="experience" class="home-section" style="background-color: #ffffff; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <h2>Professional Experience</h2>
 
   <h3>DevOps/Cloud Engineer</h3>
   <p><strong>Dec 2020 - Current | Insurance & Mobility Solutions, Canada</strong></p>
   <ul>
     <li>Monitored automated build and continuous software integration process to drive build/release failure resolution.</li>
-    <li>Led migration projects involving 6 cross-functional team members in achieving containerization of the company’s different legacy applications, yielding a 30% increase in system reliability and slashed resource consumption by 25%.</li>
+    <li>Led migration projects involving6 cross-functional team members in achieving containerization of the company’s different legacy applications, yielding a 30% increase in system reliability and slashed resource consumption by 25%.</li>
     <li>Collaborated with security engineers and SOC managers to provide situational awareness via detection, containment, and remediation of threats to web apps and systems.</li>
     <li>Generated and presented regular security reports to stakeholders.</li>
     <li>Monitored and analyzed security events using SIEM and other security tools.</li>
@@ -130,7 +130,7 @@ title: Home
   </ul>
 </section>
 
-<section id="education" class="home-section" style="background-color: #e9ecef; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+<section id="education" class="home-section" style="background-color: #f4f4f4; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <h2>Education & Certification</h2>
   <p><strong>Bachelor of Science - Computer Science</strong><br>2011</p>
   <p><strong>Certificate Course in Managing Emotions in Times of Uncertainty & Stress</strong><br>2022</p>
