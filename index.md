@@ -3,6 +3,18 @@ layout: default
 title: Home
 ---
 
+<header style="display: flex; align-items: center; justify-content: space-between; background-color: #333; padding: 20px; color: white;">
+  <img src="logo.png" alt="Bilal Kareem Logo" style="width: 100px; height: auto; margin-right: 20px;">
+  <div style="flex-grow: 1;">
+    <h1>Bilal Olakunle Kareem - DevSecOps Professional</h1>
+    <p>
+      <a href="https://www.linkedin.com/in/bilaldevsec" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+    </p>
+  </div>
+</header>
+
 <section id="objective" class="home-section" style="background-color: #f4f4f4; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <h2>Objective</h2>
   <p>Actively pursuing a position as a Cyber Security analyst, aiming to deploy my advanced technical competencies and extensive experience to fortify organizational security infrastructure, enhance system resilience, and align with strategic business objectives.</p>
@@ -82,12 +94,11 @@ title: Home
 <section id="experience" class="home-section" style="background-color: #ffffff; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <h2>Professional Experience</h2>
 
-```markdown
   <h3>DevOps/Cloud Engineer</h3>
   <p><strong>Dec 2020 - Current | Insurance & Mobility Solutions, Canada</strong></p>
   <ul>
     <li>Monitored automated build and continuous software integration process to drive build/release failure resolution.</li>
-    <li>Led migration projects involving 6 cross-functional team members in achieving containerization of the company’s different legacy applications, yielding a 30% increase in system reliability and slashed resource consumption by 25%.</li>
+    <li>Led migration projects involving6 cross-functional team members in achieving containerization of the company’s different legacy applications, yielding a 30% increase in system reliability and slashed resource consumption by 25%.</li>
     <li>Collaborated with security engineers and SOC managers to provide situational awareness via detection, containment, and remediation of threats to web apps and systems.</li>
     <li>Generated and presented regular security reports to stakeholders.</li>
     <li>Monitored and analyzed security events using SIEM and other security tools.</li>
@@ -123,8 +134,8 @@ title: Home
   <h2>Education & Certification</h2>
   <p><strong>Bachelor of Science - Computer Science</strong><br>2011</p>
   <p><strong>Certificate Course in Managing Emotions in Times of Uncertainty & Stress</strong><br>2022</p>
-  <p><strong>Google Cybersecurity Professional Certificate</strong><br>
-
-
-
+  <p><strong>Google Cybersecurity Professional Certificate</strong><br>2023</p>
+  <p><strong>IBM SkillsBuild Cybersecurity Fundamental</strong><br>2023</p>
+  <p><strong>IBM: Working in a Digital World Professional Skills</strong><br>2023</p>
+</section>
 
