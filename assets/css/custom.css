@@ -1,4 +1,3 @@
-
 /* Custom styles for the site */
 body {
   display: flex;
@@ -18,8 +17,8 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: #4CAF50; /* Greenish color */
-  color: white;
+  background-color: #a8d5ba; /* Lighter shade of green */
+  color: #333;
   padding: 20px;
 }
 
