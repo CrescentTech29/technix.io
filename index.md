@@ -4,7 +4,7 @@ title: Home
 ---
 
 <header style="display: flex; align-items: center; justify-content: space-between; background-color: #333; padding: 20px; color: white;">
-  <img src="logo.png" alt="Bilal Kareem Logo" style="width: 100px; height: auto; margin-right: 20px;">
+  <img src="logo.png" alt="Bilal Kareem Logo" style="width: 400px; height: auto; margin-right: 20px;">
   <div style="flex-grow: 1;">
     <h1>Bilal Olakunle Kareem - DevSecOps Professional</h1>
     <p>
