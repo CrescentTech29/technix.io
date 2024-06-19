@@ -3,6 +3,21 @@ layout: default
 title: Home
 ---
 
+<header style="display: flex; align-items: center; justify-content: space-between; background-color: #f7f7f7; padding: 20px;">
+  <img src="{{ site.baseurl }}/logo.png" alt="Logo" style="width: 200px; height: auto; margin-right: 20px;">
+  <div style="flex-grow: 1;">
+    <h1>Bilal Olakunle Kareem - DevSecOps Engineer</h1>
+    <p>
+      <a href="https://www.linkedin.com/in/bilaldevsec" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+      <a href="https://github.com/CrescentTech29/technix.io" target="_blank">
+        <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      </a>
+    </p>
+  </div>
+</header>
+
 <section id="objective" class="home-section" style="background-color: #e9ecef; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <h2>Objective</h2>
   <p>Actively pursuing a position as a Cyber Security analyst, aiming to deploy my advanced technical competencies and extensive experience to fortify organizational security infrastructure, enhance system resilience, and align with strategic business objectives.</p>
@@ -77,7 +92,8 @@ title: Home
   <p>
     <img src="https://img.shields.io/badge/-Prometheus-E6522C?&style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus">
     <img src="https://img.shields.io/badge/-Grafana-F46800?&style=for-the-badge&logo=Grafana&logoColor=white" alt="Grafana">
-    <img src="https://img.shields.io/badge/-CloudWatch-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="CloudWatch">
+    <img src="https://img.shields.io/badge/-CloudWatch-FF9900?&style=```markdown
+for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="CloudWatch">
   </p>
 </section>
 
@@ -90,8 +106,7 @@ title: Home
     <li>Led migration projects involving 6 cross-functional team members in achieving containerization of the company’s different legacy applications, yielding a 30% increase in system reliability and slashed resource consumption by 25%.</li>
     <li>Collaborated with security engineers and SOC managers to provide situational awareness via detection, containment, and remediation of threats to web apps and systems.</li>
     <li>Generated and presented regular security reports to stakeholders.</li>
-    <li>Monitored and analyzed security events using SIEM```markdown
-and other security tools.</li>
+    <li>Monitored and analyzed security events using SIEM and other security tools.</li>
     <li>Supervised a team of 5 Engineers to deploy CICD pipeline jobs with GitOps Action within the approved timeline.</li>
     <li>Developed secure, robust, scalable infrastructure with Terraform across multiple availability zones, accelerating feature deployment from quarterly to monthly and enhancing market responsiveness.</li>
     <li>Sorted, simplified, and documented legacy projects with Confluence for prospective company investors.</li>
@@ -128,4 +143,3 @@ and other security tools.</li>
   <p><strong>IBM SkillsBuild Cybersecurity Fundamental</strong><br>2023</p>
   <p><strong>IBM: Working in a Digital World Professional Skills</strong><br>2023</p>
 </section>
-
