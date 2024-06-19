@@ -1,9 +1,10 @@
+
 ---
 layout: default
 title: Home
 ---
 
-<section id="objective" class="home-section" style="background-color: #f4f4f4; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+<section id="objective" class="home-section" style="background-color: #eef; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <h2>Objective</h2>
   <p>Actively pursuing a position as a Cyber Security analyst, aiming to deploy my advanced technical competencies and extensive experience to fortify organizational security infrastructure, enhance system resilience, and align with strategic business objectives.</p>
 </section>
@@ -58,18 +59,18 @@ title: Home
   </table>
 </section>
 
-<section id="tools" class="home-section" style="background-color: #f4f4f4; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+<section id="tools" class="home-section" style="background-color: #eef; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <h2>Tools</h2>
   <h3>CI/CD and Automation</h3>
   <p>
-    <img src="https://img.shields.io/badge/-Jenkins-D24939?&style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins">
-    <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?&style=for-the-badge&logo=GitHub-Actions&logoColor=white" alt="GitHub Actions">
-    <img src="https://img.shields.io/badge/-Terraform-623CE4?&style=for-the-badge&logo=Terraform&logoColor=white" alt="Terraform">
-    <img src="https://img.shields.io-badge/-Ansible-EE0000?&style=for-the-badge&logo=Ansible&logoColor=white" alt="Ansible">
-    <img src="https://img.shields.io-badge/-Nexus-4E73B9?&style=for-the-badge&logo=Sonatype&logoColor=white" alt="Nexus">
-    <img src="https://img.shields.io-badge/-SonarQube-4E9BCD?&style=for-the-badge&logo=SonarQube&logoColor=white" alt="SonarQube">
-    <img src="https://img.shields.io-badge/-Tomcat-F8DC75?&style=for-the-badge&logo=Apache%20Tomcat&logoColor=black" alt="Tomcat">
-    <img src="https://img.shields.io-badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins">
+    <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=GitHub-Actions&logoColor=white" alt="GitHub Actions">
+    <img src="https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=Terraform&logoColor=white" alt="Terraform">
+    <img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white" alt="Ansible">
+    <img src="https://img.shields.io/badge/-Nexus-4E73B9?style=for-the-badge&logo=Sonatype&logoColor=white" alt="Nexus">
+    <img src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=for-the-badge&logo=SonarQube&logoColor=white" alt="SonarQube">
+    <img src="https://img.shields.io/badge/-Tomcat-F8DC75?style=for-the-badge&logo=Apache%20Tomcat&logoColor=black" alt="Tomcat">
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker">
   </p>
 
   <h3>Operating Systems</h3>
@@ -98,7 +99,8 @@ title: Home
   <p><strong>Dec 2020 - Current | Insurance & Mobility Solutions, Canada</strong></p>
   <ul>
     <li>Monitored automated build and continuous software integration process to drive build/release failure resolution.</li>
-    <li>Led migration projects involving 6 cross-functional team members in achieving containerization of the company’s different legacy applications, yielding a 30% increase in system reliability and slashed resource consumption by 25%.</li>
+    <li>Led migration projects involving 6 cross-functional team members in achieving containerization of the company’s different legacy applications, yielding a ```markdown
+30% increase in system reliability and slashed resource consumption by 25%.</li>
     <li>Collaborated with security engineers and SOC managers to provide situational awareness via detection, containment, and remediation of threats to web apps and systems.</li>
     <li>Generated and presented regular security reports to stakeholders.</li>
     <li>Monitored and analyzed security events using SIEM and other security tools.</li>
@@ -112,8 +114,7 @@ title: Home
 
   <h3>Junior DevOps Engineer</h3>
   <p><strong>Jan 2018 - Nov 2020 | SKY UK LIMITED, United Kingdom</strong></p>
-  <```markdown
-ul>
+  <ul>
     <li>Interfaced directly with customers, stakeholders, and end-users regarding capability architectures, requirements use cases, and stories to derive, develop and decompose next-cycle updates and specifications.</li>
     <li>Enhanced security by performing applications installation, upgrades/patches, troubleshooting, maintenance, and monitoring of Linux servers.</li>
     <li>Secured significant and confidential data, along with business systems.</li>
@@ -131,7 +132,7 @@ ul>
   </ul>
 </section>
 
-<section id="education" class="home-section" style="background-color: #f4f4f4; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+<section id="education" class="home-section" style="background-color: #eef; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <h2>Education & Certification</h2>
   <p><strong>Bachelor of Science - Computer Science</strong><br>2011</p>
   <p><strong>Certificate Course in Managing Emotions in Times of Uncertainty & Stress</strong><br>2022</p>
@@ -139,4 +140,3 @@ ul>
   <p><strong>IBM SkillsBuild Cybersecurity Fundamental</strong><br>2023</p>
   <p><strong>IBM: Working in a Digital World Professional Skills</strong><br>2023</p>
 </section>
-
