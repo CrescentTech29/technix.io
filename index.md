@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Home
@@ -99,12 +98,12 @@ title: Home
   <p><strong>Dec 2020 - Current | Insurance & Mobility Solutions, Canada</strong></p>
   <ul>
     <li>Monitored automated build and continuous software integration process to drive build/release failure resolution.</li>
-    <li>Led migration projects involving 6 cross-functional team members in achieving containerization of the company’s different legacy applications, yielding a ```markdown
-30% increase in system reliability and slashed resource consumption by 25%.</li>
+    <li>Led migration projects involving 6 cross-functional team members in achieving containerization of the company’s different legacy applications, yielding a 30% increase in system reliability and slashed resource consumption by 25%.</li>
     <li>Collaborated with security engineers and SOC managers to provide situational awareness via detection, containment, and remediation of threats to web apps and systems.</li>
     <li>Generated and presented regular security reports to stakeholders.</li>
     <li>Monitored and analyzed security events using SIEM and other security tools.</li>
-    <li>Supervised a team of 5 Engineers to deploy CICD pipeline jobs with GitOps Action within the approved timeline.</li>
+    <li>Super```markdown
+    vised a team of 5 Engineers to deploy CICD pipeline jobs with GitOps Action within the approved timeline.</li>
     <li>Developed secure, robust, scalable infrastructure with Terraform across multiple availability zones, accelerating feature deployment from quarterly to monthly and enhancing market responsiveness.</li>
     <li>Sorted, simplified, and documented legacy projects with Confluence for prospective company investors.</li>
     <li>Trained lower engineers in installation and management of both self-managed Kubernetes clusters and managed k8 clusters (Kubeadm, EKS, and Rancher).</li>
@@ -140,3 +139,4 @@ title: Home
   <p><strong>IBM SkillsBuild Cybersecurity Fundamental</strong><br>2023</p>
   <p><strong>IBM: Working in a Digital World Professional Skills</strong><br>2023</p>
 </section>
+
