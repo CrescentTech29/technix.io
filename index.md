@@ -2,10 +2,9 @@
 layout: default
 title: Home
 ---
-
 <header style="display: flex; align-items: center; justify-content: space-between; background-color: #f7f7f7; padding: 20px;">
-  <img src="{{ site.baseurl }}/logo.png" alt="Logo" style="width: 200px; height: auto; margin-right: 20px;">
-  <div style="flex-grow: 1;">
+  <img src="logo.png" alt="NP Logo" style="width: 200px; height: auto; margin-right: 20px;">
+  <div style="flex-grow: 1;"
     <h1>Bilal Olakunle Kareem - DevSecOps Engineer</h1>
     <p>
       <a href="https://www.linkedin.com/in/bilaldevsec" target="_blank">
