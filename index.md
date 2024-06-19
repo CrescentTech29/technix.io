@@ -4,12 +4,13 @@ title: Home
 ---
 
 <header style="display: flex; align-items: center; justify-content: space-between; background-color: #333; padding: 20px; color: white;">
-  <img src="logo.png" alt="Bilal Kareem Logo" style="width: 400px; height: auto; margin-right: 20px;">
+  <img src="logo.png" alt="Bilal Kareem Logo" style="width: 200px; height: auto; margin-right: 20px;">
   <div style="flex-grow: 1;">
-    <h1>Bilal Olakunle Kareem - DevSecOps Professional</h1>
-    <p>
-      <a href="https://www.linkedin.com/in/bilaldevsec" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <h1 style="margin: 0; font-size: 2em;">Bilal Olakunle Kareem - DevSecOps Professional</h1>
+    <p style="margin: 0; font-size: 1.2em;">
+      <a href="https://www.linkedin.com/in/bilaldevsec" target="_blank" style="color: white; text-decoration: none;">
+        <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle;">
+        LinkedIn
       </a>
     </p>
   </div>
@@ -98,7 +99,7 @@ title: Home
   <p><strong>Dec 2020 - Current | Insurance & Mobility Solutions, Canada</strong></p>
   <ul>
     <li>Monitored automated build and continuous software integration process to drive build/release failure resolution.</li>
-    <li>Led migration projects involving6 cross-functional team members in achieving containerization of the company’s different legacy applications, yielding a 30% increase in system reliability and slashed resource consumption by 25%.</li>
+    <li>Led migration projects involving 6 cross-functional team members in achieving containerization of the company’s different legacy applications, yielding a 30% increase in system reliability and slashed resource consumption by 25%.</li>
     <li>Collaborated with security engineers and SOC managers to provide situational awareness via detection, containment, and remediation of threats to web apps and systems.</li>
     <li>Generated and presented regular security reports to stakeholders.</li>
     <li>Monitored and analyzed security events using SIEM and other security tools.</li>
@@ -138,5 +139,6 @@ title: Home
   <p><strong>IBM SkillsBuild Cybersecurity Fundamental</strong><br>2023</p>
   <p><strong>IBM: Working in a Digital World Professional Skills</strong><br>2023</p>
 </section>
+
 
 
