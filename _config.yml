@@ -2,8 +2,15 @@ title: Bilal Olakunle Kareem - Cyber Security Analyst
 description: >
   Actively pursuing a position as a Cyber Security analyst, aiming to deploy my advanced technical competencies and extensive experience to fortify organizational security infrastructure.
 baseurl: ""
-url: "https://github.com/CrescentTech29/technix.io"
-theme: minima
+url: "https://crescenttech29.github.io/technix.io"
+theme: jekyll-theme-cayman
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
 
 # Build settings
 markdown: kramdown
